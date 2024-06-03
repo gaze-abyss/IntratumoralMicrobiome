@@ -3,5 +3,5 @@ Intratumoral microbiome is associated with gastric cancer prognosis and therapy 
 
 ## If you have used code from this web page, please cite the article:
 ```
-Wang GJ et al.,xxxxxxx,2024
+Wang GJ et al., Intratumoral microbiome is associated with gastric cancer prognosis and therapy efficacy, 2024
 ```
